@@ -84,3 +84,15 @@ The notebook includes the following experiments:
 ### Work–Precision Diagrams
 - Error versus runtime comparisons  
 - Efficiency analysis of each method  
+
+
+## References
+
+- Y. He, Y. Sun, J. Liu, and H. Qin,  
+  *Volume-preserving algorithms for charged particle dynamics*,  
+  Journal of Computational Physics, 281, 135–147 (2015).
+
+- E. Hairer and C. Lubich,  
+  *Symmetric multistep methods for charged-particle dynamics*,  
+  The SMAI Journal of Computational Mathematics, 3, 205–218 (2017).
+
